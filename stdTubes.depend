@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1766873459 source:d:\codemylife\cpp\codeblocks\stdtubes\main.cpp
+	<limits>
+	"header.h"
+
+1766872947 source:d:\codemylife\cpp\codeblocks\stdtubes\source.cpp
+	"header.h"
+
+1766873208 d:\codemylife\cpp\codeblocks\stdtubes\header.h
+	<iostream>
+	<string>
+
